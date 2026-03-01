@@ -1,0 +1,179 @@
+{
+    "description": "Flex 2 Project File",
+    "name": "CC Replica",
+    "objects": [
+        {
+            "name": "Bunny",
+            "palettes": [
+                {
+                    "path": "..\\palette\\Sonic.bin",
+                    "length": 1
+                }
+            ],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Pocky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\1.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Chicken",
+            "palettes": [],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Cucky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\2.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Flicky",
+            "palettes": [],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Flicky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\2.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Penguin",
+            "palettes": [],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Pecky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\1.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Pig",
+            "palettes": [],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Picky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\3.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Squirrel",
+            "palettes": [],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Ricky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\3.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Rocky",
+            "palettes": [],
+            "art": {
+                "path": "..\\levels\\shared\\Animals\\Rocky.nem",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\levels\\shared\\Animals\\2.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        },
+        {
+            "name": "Signpost",
+            "palettes": [],
+            "art": {
+                "path": "..\\artnem\\Signpost.bin",
+                "compression": "Nemesis"
+            },
+            "mappings": {
+                "path": "..\\_maps\\Signpost.asm",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": "MapSignpost"
+            },
+            "dplcs": {
+                "enabled": false,
+                "path": "",
+                "format": "Sonic 1",
+                "customDefinition": "",
+                "label": ""
+            }
+        }
+    ]
+}
